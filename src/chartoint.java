@@ -28,7 +28,14 @@ public class chartoint {
 //			System.out.println(s[i]);		
 //		}
 		
-
+		int[][] a= new int[1][2];
+		
+		a[0][0]=1;
+		a[0][1]=2;
+		
+			
+		System.out.println(a);
+		
 
 	}
 
